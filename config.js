@@ -39,9 +39,9 @@ const CONFIG = {
     date: "2026-10-18",
     time: "11:00",
     venue: "더 시그너스 웨딩 수원 2층",
-    hall: "경주 방면 당일 버스 출발 07시, 위치 경주 OOO 앞, 버스 관련 문의 아래 번호",
+    hall: "수인분당선 수원시청역 9번 출구 도보 3분, 2시간 무료주차",
     address: "경기도 수원시 팔달구 권광로 178",
-    tel: "010-0000-0000",
+    tel: "031-224-2030",
     mapLinks: {
       kakao: "https://place.map.kakao.com/181071736",
       naver: "https://naver.me/5R4fASYs"
